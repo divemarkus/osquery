@@ -31,7 +31,12 @@ osquery> SELECT
     ...> JOIN processes p ON p.pid = lp.pid
     ...> WHERE lp.address NOT IN ('127.0.0.1', '::1')
     ...> ORDER BY lp.port;
+
 ``` 
 
+### About...
+[Github...](https://github.com/osquery/osquery)
+
+[Check it out...](https://osquery.io/)
 
 
