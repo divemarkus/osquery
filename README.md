@@ -1,5 +1,7 @@
-# osquery
-Basics...
+# Osquery
+Osquery is an open-source tool developed at Facebook that exposes an operating system as a relational database, allowing users to query OS data like running processes, kernel modules, and network connections using SQL. It serves as a powerful framework for security visibility, compliance monitoring, and incident response by providing detailed, unified data across different platforms, including Windows, macOS, and Linux.
+
+### Basics...
 
 ```
 # open command prompt as administrator
